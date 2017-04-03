@@ -1,0 +1,22 @@
+Talk 1:
+
+Name : Dinesh Bhatt 
+Company : Syncogni Consulting 
+Topic : Service Orchestration using RxJava 
+Duration : 1 Hour 
+Agenda : 
+ What is Reactive Programming? 
+ What are the libraries / frameworks available out there for reactive programming? 
+ What is RxJava? 
+ “Hello World” using RxJava 
+ How to use RxJava in real world applications? 
+ Building a Twitter Sentiment Analytics App using RxJava 
+ How to build Service Orchestration Layer using RxJava? 
+Prerequisites / Audience is expected to be aware of : 
+ Core Java 
+ Lambda Expressions 
+ Method references 
+ Functional Programming 
+ Web - application development using JEE/Spring 
+
+
